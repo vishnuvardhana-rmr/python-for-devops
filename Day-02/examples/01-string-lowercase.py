@@ -1,5 +1,5 @@
-text = "Python is awesome"
-uppercase = text.upper()
-lowercase = text.lower()
-print("Uppercase:", uppercase)
-print("Lowercase:", lowercase)
+text = "Python is a Great Language"
+Lowercase = text.lower()
+Uppercase = text.upper()
+print("Lowercase:", Lowercase)
+print("Uppercase:", Uppercase)

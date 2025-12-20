@@ -1,3 +1,3 @@
-text = "Python is awesome"
-new_text = text.replace("awesome", "great")
-print("Modified text:", new_text)
+text = "Vishnu is Working Hard"
+new_text = text.replace("Vishnu","Reddy")
+print("Updated Sentence:", new_text)

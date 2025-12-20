@@ -1,3 +1,3 @@
-text = "Python is awesome"
-length = len(text)
-print("Length of the string:", length)
+sentence = "Python is a ALL rounder Langueage"
+lenght = len(sentence)
+print("The Length of the sentence is:", lenght)
